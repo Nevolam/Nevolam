@@ -1,55 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-label="Animated white ASCII mountain forest with a subtle sci-fi HUD">
-  <rect width="1000" height="390" rx="12" fill="#050505"/>
-  <g fill="#fff" font-family="monospace" text-anchor="middle">
-    <text x="28" y="28" text-anchor="start" font-size="11" letter-spacing="2">FIELD OBSERVER // TERRAIN SCAN</text>
-    <text x="972" y="28" text-anchor="end" font-size="11" letter-spacing="2">SECTOR 07 // LIVE</text>
-    <path d="M22 42H978 M22 348H978" stroke="#fff" stroke-width=".7" opacity=".55"/>
-    <g font-size="12" opacity=".9">
-      <text x="500" y="76">.       *            .              .        *</text>
-      <text x="500" y="94">      .        .             *             .</text>
-      <text x="500" y="112">  *          .         .           .</text>
-    </g>
-    <g font-size="17" xml:space="preserve">
-      <text x="500" y="147">                 /\                    /\</text>
-      <text x="500" y="166">                /  \       /\         /  \</text>
-      <text x="500" y="185">       /\      /    \     /  \       /    \</text>
-      <text x="500" y="204">      /  \    /      \   /    \     /      \</text>
-      <text x="500" y="223">     /    \  /        \_/      \___/        \</text>
-      <text x="500" y="242">    /      \/                              \</text>
-    </g>
-    <g font-size="14" xml:space="preserve">
-      <text x="500" y="262">       /\       /\       /\       /\       /\</text>
-      <text x="500" y="278">      /**\     /**\     /**\     /**\     /**\</text>
-      <text x="500" y="294">     /****\   /****\   /****\   /****\   /****\</text>
-      <text x="500" y="310">       ||       ||       ||       ||       ||</text>
-      <text x="500" y="326">  _____||_______||_______||_______||_______||_____</text>
-    </g>
-    <g font-size="10" text-anchor="start" opacity=".8">
-      <text x="34" y="70">ALT: 2840 M</text>
-      <text x="34" y="85">WIND: 04 KPH</text>
-      <text x="34" y="100">BIOME: CONIFER</text>
-      <text x="966" y="70" text-anchor="end">SCAN: ACTIVE</text>
-      <text x="966" y="85" text-anchor="end">SIGNAL: STABLE</text>
-      <text x="966" y="100" text-anchor="end">VISIBILITY: 98%</text>
-    </g>
-    <g font-size="10" opacity=".75">
-      <text x="500" y="370">[ TERRAIN MAPPED ]  //  [ NO LIFEFORM DETECTED ]  //  [ STAY CURIOUS ]</text>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="White ASCII art spelling NEVOLAM, appearing line by line then fading and repeating">
+  <rect width="1000" height="260" fill="#000"/>
+  <g fill="#fff" font-family="monospace" font-size="25" font-weight="bold" letter-spacing="2" text-anchor="middle" xml:space="preserve">
+    <text x="500" y="88" opacity="0">#   # ##### #   # #   # #     #   # #   #<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.72;1" dur="4.5s" repeatCount="indefinite" begin="0s"/></text>
+    <text x="500" y="111" opacity="0">##  # #     ##  # #   # #     #   # ## ##<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.72;1" dur="4.5s" repeatCount="indefinite" begin=".3s"/></text>
+    <text x="500" y="134" opacity="0"># # # ####  # # # #   # #     #   # # # #<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.72;1" dur="4.5s" repeatCount="indefinite" begin=".6s"/></text>
+    <text x="500" y="157" opacity="0">#  ## #     #  ##  # #  #     #   # #   #<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.72;1" dur="4.5s" repeatCount="indefinite" begin=".9s"/></text>
+    <text x="500" y="180" opacity="0">#   # ##### #   #   #   #####  ###  #   #<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.72;1" dur="4.5s" repeatCount="indefinite" begin="1.2s"/></text>
   </g>
-  <g fill="#fff">
-    <circle cx="165" cy="125" r="1.4"><animate attributeName="opacity" values=".15;1;.15" dur="2.8s" repeatCount="indefinite"/></circle>
-    <circle cx="810" cy="142" r="1.2"><animate attributeName="opacity" values="1;.15;1" dur="3.4s" repeatCount="indefinite"/></circle>
-    <circle cx="720" cy="88" r="1.1"><animate attributeName="opacity" values=".2;1;.2" dur="2.1s" repeatCount="indefinite"/></circle>
-    <circle cx="290" cy="92" r="1.1"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
-  </g>
-  <g stroke="#fff" fill="none" opacity=".7" stroke-width=".8">
-    <path d="M22 54V42H34 M966 42H978V54 M22 336V348H34 M966 348H978V336"/>
-    <path d="M40 342H960" opacity=".35">
-      <animate attributeName="opacity" values=".1;.8;.1" dur="3s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <rect x="24" y="44" width="952" height="1" fill="#fff" opacity=".12">
-    <animate attributeName="y" values="44;344;44" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values=".08;.35;.08" dur="8s" repeatCount="indefinite"/>
-  </rect>
 </svg>
