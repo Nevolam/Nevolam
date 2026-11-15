@@ -27,7 +27,7 @@
     <circle cx="1030" cy="190" r="1"><animate attributeName="opacity" values="0.2;1;0.35;0.2" dur="1.3s" begin="3.91s" repeatCount="indefinite"/></circle>
   </g>
   <g fill="#fff" font-family="DejaVu Sans Mono, monospace" font-size="19" xml:space="preserve">
-    <text x="600" y="85" text-anchor="middle" opacity="0">▒  ▒                 ▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.00s"/></text>
+    <text x="600" y="85" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.00s"/></text>
     <text x="600" y="107" text-anchor="middle" opacity="0">                    ▒▒▒▒▒▒▒▒▒          ▒   ▒▒▒▒▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.12s"/></text>
     <text x="600" y="129" text-anchor="middle" opacity="0">           ▒    ▒▒ ▒▒▒▒▒▒▒ ▒▒▒        ▒▒▒ ▒▒▒▒▒▒▒▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.24s"/></text>
     <text x="600" y="151" text-anchor="middle" opacity="0">  ▒       ▒▒▒  ▒▒▒▒▒▒▒▒▒▒   ▒▒▒      ▒▒▒ ▒▒▒▒▒    ▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.36s"/></text>
@@ -42,6 +42,6 @@
     <text x="600" y="349" text-anchor="middle" opacity="0"> ▒        ▒▒  ▒▒▒▒ ▒▒▒▒▒         ▒▒▒       ▒▒▒▒▒▒▒▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="1.44s"/></text>
     <text x="600" y="371" text-anchor="middle" opacity="0">             ▒▒▒▒▒▒▒▒▒▒▒▒         ▒         ▒▒▒▒▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="1.56s"/></text>
     <text x="600" y="393" text-anchor="middle" opacity="0">             ▒▒▒▒▒▒▒▒▒▒▒                     ▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="1.68s"/></text>
-    <text x="600" y="415" text-anchor="middle" opacity="0">              ▒▒▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="1.80s"/></text>
+    <text x="600" y="415" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="1.80s"/></text>
   </g>
 </svg>
