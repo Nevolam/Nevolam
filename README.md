@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="nevolam-ascii.svg" width="100%" alt="Animated ASCII NEVOLAM banner" />
+  <img src="nevolam-ascii.svg" width="100%" alt="Animated white ASCII mountain and forest with sci-fi HUD" />
 </div>
 
 <div align="center">
 
   **DEVELOPER • CREATOR • GAME ENTHUSIAST**
 
-  <code>Turning ideas into things you can actually use.</code>
+  <code>Exploring new worlds, one line of code at a time.</code>
 
 </div>
 
