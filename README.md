@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  <img src="nevolam-ascii.svg" width="100%" alt="Animated ASCII NEVOLAM banner" />
+</div>
 
-<!--
-**Nevolam/Nevolam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  **DEVELOPER • CREATOR • GAME ENTHUSIAST**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <code>Turning ideas into things you can actually use.</code>
+
+</div>
+
+---
+
+### `$ whoami`
+
+```txt
+NAME      : NEVOLAM
+FOCUS     : Software development, creative tools & games
+CURRENTLY : Learning, building, experimenting
+MINDSET   : Make it work. Make it better. Make it fun.
+```
+
+### `$ interests`
+
+- Building web apps and Android projects
+- Game development and pixel-art tools
+- Exploring Python, JavaScript and software engineering
+- Turning random ideas into small, useful projects
+
+### `$ current_stack`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,androidstudio" alt="Technologies and tools" />
+</div>
+
+---
+
+<div align="center">
+
+  `> Thanks for stopping by.`
+
+  <sub>More experiments loading...</sub>
+
+</div>
