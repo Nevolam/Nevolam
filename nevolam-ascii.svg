@@ -1,10 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Animated white ASCII NEVOLAM wordmark">
-  <rect width="1000" height="260" fill="#000"/>
-  <g fill="#fff" font-family="monospace" font-size="20" font-weight="bold" xml:space="preserve">
-    <text x="254" y="85" text-anchor="start" opacity="0">10001 11111 10001 01110 10000 01110 10001<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="5s" repeatCount="indefinite" begin="0.0s"/></text>
-    <text x="254" y="115" text-anchor="start" opacity="0">11001 10000 10001 10001 10000 10001 11011<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="5s" repeatCount="indefinite" begin="0.2s"/></text>
-    <text x="254" y="145" text-anchor="start" opacity="0">10101 11110 10001 10001 10000 11111 10101<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="5s" repeatCount="indefinite" begin="0.4s"/></text>
-    <text x="254" y="175" text-anchor="start" opacity="0">10011 10000 01010 10001 10000 10001 10001<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="5s" repeatCount="indefinite" begin="0.6s"/></text>
-    <text x="254" y="205" text-anchor="start" opacity="0">10001 11111 00100 01110 11111 10001 10001<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="5s" repeatCount="indefinite" begin="0.8s"/></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Animated detailed white ASCII NEVOLAM wordmark">
+  <rect width="1000" height="300" fill="#000"/>
+  <g fill="#fff" font-family="monospace" font-size="18" font-weight="bold" xml:space="preserve">
+    <text x="230" y="85" text-anchor="start" opacity="0">|     |  -------  |     |   /---\   |          /-\    |     |<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="6s" repeatCount="indefinite" begin="0.00s"/></text>
+    <text x="230" y="110" text-anchor="start" opacity="0">||    |  |        |     |  |     |  |         /   \   ||   ||<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="6s" repeatCount="indefinite" begin="0.18s"/></text>
+    <text x="230" y="135" text-anchor="start" opacity="0">| |   |  |        |     |  |     |  |        |     |  | | | |<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="6s" repeatCount="indefinite" begin="0.36s"/></text>
+    <text x="230" y="160" text-anchor="start" opacity="0">|  |  |  |-----   \     /  |     |  |        |-----|  |  |  |<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="6s" repeatCount="indefinite" begin="0.54s"/></text>
+    <text x="230" y="185" text-anchor="start" opacity="0">|   | |  |         \   /   |     |  |        |     |  |     |<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="6s" repeatCount="indefinite" begin="0.72s"/></text>
+    <text x="230" y="210" text-anchor="start" opacity="0">|    ||  |          \ /    |     |  |        |     |  |     |<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="6s" repeatCount="indefinite" begin="0.90s"/></text>
+    <text x="230" y="235" text-anchor="start" opacity="0">|     |  -------     -      \---/   |______  |     |  |     |<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.72;1" dur="6s" repeatCount="indefinite" begin="1.08s"/></text>
   </g>
 </svg>
