@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="nevolam-ascii.svg" width="100%" alt="Animated white ASCII mountain and forest with sci-fi HUD" />
+  <img src="nevolam-ascii.svg" width="100%" alt="Animated white ASCII NEVOLAM wordmark" />
 </div>
 
 <div align="center">
