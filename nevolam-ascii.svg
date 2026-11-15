@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Animated monochrome block-shade ASCII artwork">
   <rect width="1200" height="470" fill="#000"/>
   <g fill="#fff" font-family="DejaVu Sans Mono, monospace" font-size="19" xml:space="preserve">
-    <text x="600" y="85" text-anchor="middle" opacity="0">▒  ▒                 ▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.00s"/></text>
+    <text x="110" y="85" text-anchor="start" opacity="0">▒  ▒                 ▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.00s"/></text>
     <text x="600" y="107" text-anchor="middle" opacity="0">                    ▒▒▒▒▒▒▒▒▒          ▒   ▒▒▒▒▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.12s"/></text>
     <text x="600" y="129" text-anchor="middle" opacity="0">           ▒    ▒▒ ▒▒▒▒▒▒▒ ▒▒▒        ▒▒▒ ▒▒▒▒▒▒▒▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.24s"/></text>
     <text x="600" y="151" text-anchor="middle" opacity="0">  ▒       ▒▒▒  ▒▒▒▒▒▒▒▒▒▒   ▒▒▒      ▒▒▒ ▒▒▒▒▒    ▒▒▒▒▒<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.78;1" dur="7s" repeatCount="indefinite" begin="0.36s"/></text>
